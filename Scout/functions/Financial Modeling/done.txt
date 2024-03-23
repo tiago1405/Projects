@@ -1,0 +1,128 @@
+../data_resources/fixed_data/Northern California/Bay Area - East Bay
+../data_resources/fixed_data/Northern California/Bay Area - South Bay
+../data_resources/fixed_data/Northern California/San Francisco
+../data_resources/fixed_data/Northern California/Sacramento
+../data_resources/fixed_data/Mid-Atlantic/Baltimore
+../data_resources/fixed_data/Mid-Atlantic/Washington DC - Surban Maryland
+../data_resources/fixed_data/Mid-Atlantic/Richmond-Tidewater
+../data_resources/fixed_data/Mid-Atlantic/Northern Virginia
+../data_resources/fixed_data/Pacific Northwest/Seattle
+../data_resources/fixed_data/Pacific Northwest/Richland-Kennewick-Pasco
+../data_resources/fixed_data/Pacific Northwest/Spokane
+../data_resources/fixed_data/Pacific Northwest/Portland
+../data_resources/fixed_data/Pacific Northwest/Eugene
+../data_resources/fixed_data/Pacific Northwest/Tacoma
+../data_resources/fixed_data/Midwest/Columbus
+../data_resources/fixed_data/Midwest/Toledo
+../data_resources/fixed_data/Midwest/Lafayette
+../data_resources/fixed_data/Midwest/Detroit
+../data_resources/fixed_data/Midwest/Twin Cities - Suburban
+../data_resources/fixed_data/Midwest/St Louis
+../data_resources/fixed_data/Midwest/Chicago - Suburban
+../data_resources/fixed_data/Midwest/Indianapolis
+../data_resources/fixed_data/Midwest/Grand Rapids
+../data_resources/fixed_data/Midwest/South Bend
+../data_resources/fixed_data/Midwest/Kanasas City
+../data_resources/fixed_data/Midwest/Omaha
+../data_resources/fixed_data/Midwest/Chicago - Urban
+../data_resources/fixed_data/Midwest/Madison
+../data_resources/fixed_data/Midwest/Des Moines
+../data_resources/fixed_data/Midwest/Fort Wayne
+../data_resources/fixed_data/Midwest/Twin Cities - Urban
+../data_resources/fixed_data/Midwest/Dayton
+../data_resources/fixed_data/Midwest/Milwaukee
+../data_resources/fixed_data/Midwest/Cincinnati
+../data_resources/fixed_data/Midwest/Lansing-Ann Arbor
+../data_resources/fixed_data/Midwest/Wichita
+../data_resources/fixed_data/Midwest/Cleveland-Akron
+../data_resources/fixed_data/Alaska-Hawaii/Anchorage
+../data_resources/fixed_data/Alaska-Hawaii/Honolulu
+../data_resources/fixed_data/Northeast/Albany
+../data_resources/fixed_data/Northeast/Rochester
+../data_resources/fixed_data/Northeast/Long Island
+../data_resources/fixed_data/Northeast/Brooklyn
+../data_resources/fixed_data/Northeast/Boston
+../data_resources/fixed_data/Northeast/New Jersey - Central
+../data_resources/fixed_data/Northeast/Worcester - Springfield
+../data_resources/fixed_data/Northeast/Manhattan
+../data_resources/fixed_data/Northeast/Philadelphia - Suburban
+../data_resources/fixed_data/Northeast/Syracuse
+../data_resources/fixed_data/Northeast/New Jersey - Northern
+../data_resources/fixed_data/Northeast/Providence
+../data_resources/fixed_data/Northeast/Allentown-Bethlehem
+../data_resources/fixed_data/Northeast/Bridgeport-New Haven
+../data_resources/fixed_data/Northeast/Harrisburg
+../data_resources/fixed_data/Northeast/Portland ME
+../data_resources/fixed_data/Northeast/White Plains
+../data_resources/fixed_data/Northeast/Queens
+../data_resources/fixed_data/Northeast/Pittsburgh
+../data_resources/fixed_data/Northeast/Buffalo
+../data_resources/fixed_data/Northeast/Philadelphia - Urban
+../data_resources/fixed_data/Central California/Central Valley
+../data_resources/fixed_data/Central California/Central Coast
+../data_resources/fixed_data/Southwest/Dallas - Suburban
+../data_resources/fixed_data/Southwest/Austin
+../data_resources/fixed_data/Southwest/Lubbock
+../data_resources/fixed_data/Southwest/Midland - Odessa
+../data_resources/fixed_data/Southwest/Houston - West
+../data_resources/fixed_data/Southwest/Central East Texas
+../data_resources/fixed_data/Southwest/Houston - East
+../data_resources/fixed_data/Southwest/Amarillo
+../data_resources/fixed_data/Southwest/El Paso
+../data_resources/fixed_data/Southwest/McAllen
+../data_resources/fixed_data/Southwest/Corpus Christi
+../data_resources/fixed_data/Southwest/San Antonio
+../data_resources/fixed_data/Southwest/Tulsa
+../data_resources/fixed_data/Southwest/Oklahoma City
+../data_resources/fixed_data/Southwest/Fort Worth
+../data_resources/fixed_data/Southwest/Dallas - North
+../data_resources/fixed_data/Florida/West Palm Beach
+../data_resources/fixed_data/Florida/Miami
+../data_resources/fixed_data/Florida/Orlando
+../data_resources/fixed_data/Florida/Tampa
+../data_resources/fixed_data/Florida/Jacksonville
+../data_resources/fixed_data/Florida/Southwest Florida Coast
+../data_resources/fixed_data/Florida/Fort Lauderdale
+../data_resources/fixed_data/Florida/Tallahassee
+../data_resources/fixed_data/Florida/Pensacola
+../data_resources/fixed_data/Florida/North Central Florida
+../data_resources/fixed_data/Southeast/Charleston
+../data_resources/fixed_data/Southeast/Savannah - Hilton Head
+../data_resources/fixed_data/Southeast/Columbus GA
+../data_resources/fixed_data/Southeast/Winston-Salem-Greensboro
+../data_resources/fixed_data/Southeast/Atlanta - Urban
+../data_resources/fixed_data/Southeast/Augusta GA
+../data_resources/fixed_data/Southeast/Macon
+../data_resources/fixed_data/Southeast/Raleigh - Durham
+../data_resources/fixed_data/Southeast/Greenville
+../data_resources/fixed_data/Southeast/Atlanta - Suburban
+../data_resources/fixed_data/Southeast/Columbia
+../data_resources/fixed_data/Southeast/Asheville
+../data_resources/fixed_data/Southeast/Charlotte
+../data_resources/fixed_data/Southeast/Wilmington
+../data_resources/fixed_data/Western/Salt Lake City
+../data_resources/fixed_data/Western/Colorado Springs
+../data_resources/fixed_data/Western/Phoenix
+../data_resources/fixed_data/Western/Boise
+../data_resources/fixed_data/Western/Denver
+../data_resources/fixed_data/Western/Las Vegas
+../data_resources/fixed_data/Western/Reno
+../data_resources/fixed_data/Western/Albuquerque
+../data_resources/fixed_data/Western/Tucson
+../data_resources/fixed_data/South/Little Rock
+../data_resources/fixed_data/South/Nashville
+../data_resources/fixed_data/South/Mobile
+../data_resources/fixed_data/South/Knoxville
+../data_resources/fixed_data/South/Birmingham
+../data_resources/fixed_data/South/Jackson
+../data_resources/fixed_data/South/Louisville
+../data_resources/fixed_data/South/Memphis
+../data_resources/fixed_data/South/Lexington Fayette
+../data_resources/fixed_data/South/Huntsville
+../data_resources/fixed_data/South/New Orleans
+../data_resources/fixed_data/South/Baton Rouge
+../data_resources/fixed_data/South/Chattanooga
+../data_resources/fixed_data/South/Lafayette - Lake Charles
+../data_resources/fixed_data/Southern California/Los Angeles - Metro
+../data_resources/fixed_data/Southern California/San Diego
+../data_resources/fixed_data/Southern California/Los Angeles - Eastern County
